@@ -1,0 +1,48 @@
+
+The Surface Current (Ship Drift) Data are divided into 35 files.
+Files are sorted by latitude degrees, longitude degrees, and month.
+General location and record count for the files are:                               
+
+sfcsd01 60N-90N, 180W-180E     2,757 records (January 1900 - 8/4/1986)
+sfcsd02 30N-60N, 180W-100W   164,406 records (9/16/1896 - 11/14/1988)   
+sfcsd03 30N-60N, 100W-30W    147,346 records (4/5/1899 - 4/30/1987) Jan-Apr
+sfcsd04 30N-60N, 100W-30W    104,474 records (5/2/1899 - 6/27/1987) May-June
+sfcsd05 30N-60N, 100W-30W    151,398 records (July 1900 - 8/30/1987) Jul-Aug
+sfcsd06 30N-60N, 100W-30W    177,475 records (Sept 1900 - 10/23/1987) Sep-Dec
+sfcsd07 30N-60N, 30W-100E    149,500 records (Jan 1900 - 4/29/1987) Jan-April
+sfcsd08 30N-60N, 30W-100E    187,566 records (7/2/1899 - 8/28/1987) May-Aug
+sfcsd09 30N-60N, 30W-100E    148,260 records (12/2/1899 - 9/26/87) Sept-Dec
+sfcsd10 30N-60N, 100E-180E   149,791 records (6/1/1899 - 2/14/93) Jan-Dec
+sfcsd11 10S-30N, 180W-100W   121,267 records (5/11/1896 - 6/10/88) Jan-June
+sfcsd12 10S-30N, 180W-100W    88,375 records (11/16/1895 - 9/3/87) July-Dec
+sfcsd13 10S-30N, 100W-30W    122,055 records (1/17/1899 - 1/28/1988) Jan only
+sfcsd14 10S-30N, 100W-30W     90,360 records (2/22/1899 - 2/23/1986) Feb only
+sfcsd15 10S-30N, 100W-30W    136,147 records (March 1900 - 3/22/1988) Mar only
+sfcsd16 10S-30N, 100W-30W    109,069 records (4/1/1899 - 4/1/1992) April only
+sfcsd17 10S-30N, 100W-30W    137,881 records (May 1900 - 5/14/1987 May only
+sfcsd18 10S-30N, 100W-30W     55,024 records (June 1900 - 5/14/1987) June only
+sfcsd19 10S-30N, 100W-30W    189,160 records (7/1/1899 - 8/20/1987) July & Aug
+sfcsd20 10S-30N, 100W 30W    117,068 records (9/1/1899 - 09/12/1987) Sept only
+sfcsd21 10S-30N, 100W-30W    113,032 records (Oct 1900 - 10/07/87) Oct only
+sfcsd22 10S-30N, 100W-30W    122,278 records (11/2/1895 - 11/30/1985) Nov only
+sfcsd23 10S-30N, 100W-30W     47,829 records (Dec 1900 - 12/30/1985) Dec only
+sfcsd24 10S-30N, 30W-100E    167,049 records (1/1/1894 - 3/30/1993) Jan-Mar
+sfcsd25 10S-30N, 30W-100E    157,100 records (4/3/1894 - 6/28/1993) April-June
+sfcsd26 10S-30N, 30W-100E    165,204 records (7/1/1894 - 9/30/1993) July-Sept
+sfcsd27 10S-30N, 30W-100E    147,004 records (10/1/1894 - 12/31/1993) Oct-Dec
+sfcsd28 10S-30N, 100E-180E   139,987 records (1/9/1894 - 12/31/1993) Jan-June
+sfcsd29 10S-30N, 100E-180E   120,877 records (7/2/1894 - 12/27/1993) July-Dec
+sfcsd30 90S-10S, 180W-180E   117,281 records (1/1/1894 - 3/29/1993) Jan-Mar
+sfcsd31 90s-10S, 180W-180E   101,860 records (11/4/1894 - 12/31/1993) Oct-Dec
+sfcsd32 90S-10S, 180W-180E   108,164 records (4/2/1894 - 6/26/1993) April-June
+sfcsd33 90S-10S, 180W-180E   104,204 records (7/1/1894 - 9/30/1993) July-Sept
+sfcsd34 Japanese coasts/local 12,811 records (3/14/1978 - 12/24/1987) all months    
+sfcsd35 various seas           1,922 records (3/26/1929 - 7/26/1992) all months
+                                                                           
+   Note:  These are considered replacement data for a previous             
+SCUDS/NAVOCEANO file archived at NODC.  No code is contained in this file  
+delineating the "year" field as to century, i.e. "93" could refer to 1893  
+or 1993. NAVOCEANO indicated that 1993 update data were added, so the      
+data with year designated as "94" are from 1894.    
+
+

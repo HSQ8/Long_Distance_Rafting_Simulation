@@ -1,0 +1,51 @@
+File: SURFACE CURRENT (SHIP DRIFT) DATA                           
+Geographic Coverage:  Worldwide Oceans                             
+Time Period:  1850 to 1993                                         
+
+File Structure:
+     One 59-character record
+
+File Format:
+
+                    NODC Surface Current Data System (SCUDS)
+
+
+
+PARAMETER           DESCRIPTION                                           SC FL
+
+BLANK               BLANK                                                  1  3
+Lat Deg             Latitude Degrees                                       4  3
+Decimal             Decimal Point                                          7  1
+Lat Min             Latitude Minutes                                       8  2
+BLANK               BLANK                                                 10  2
+Lon Deg             Longitude Degrees                                     12  4
+Decimal             Decimal Point                                         16  1
+Lon Min             Longitude Minutes                                     17  2
+BLANK               BLANK                                                 19  2
+Month               Month of Year                                         21  5
+BLANK               BLANK                                                 26  2
+Year                Year (2 digit year.  No Century Designator)           28  5
+Blank               BLANK                                                 33  2
+Day                 Day of Month                                          35  5
+BLANK               BLANK                                                 40  2
+Speed               Speed in Knots(x.xxx)                                 42  5
+BLANK               BLANK                                                 47  2
+Direction           Direction in Degrees True                             49  4
+BLANK               BLANK                                                 53  2
+Source              Data Source Code (Key Below)                          55  5
+
+Data Source Codes
+
+0 - H1-9
+1 - Dutch
+2 - Japanese
+3 - US Submarine Logs
+4 - British
+5 - French
+6 - GEK Meter
+7 - Scripps
+8 - Women's Prison 
+9 - Unknown
+10 - Unknown
+15 - Dutch and less than 1% Japanese
+
